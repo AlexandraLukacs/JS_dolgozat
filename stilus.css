@@ -1,0 +1,13 @@
+.kiv {
+    background-color: antiquewhite;
+}
+
+.tartalom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.csap {
+    flex: 0 0 33%;
+}
